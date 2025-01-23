@@ -7,6 +7,9 @@ public class Test {
 		
 		System.out.println(a+b);
 	}
+	public void sub(){
+	System.out.println(a-b);
+	}
 public static void main(String[] args) {
 	Test t=new Test();
 	t.add();
